@@ -7,14 +7,17 @@ TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac客�
 
 使用TodoKit，需要你下载最新版的[客户端](https://github.com/jeodiong/TodoKit/releases) 或者使用[网页版](https://www.todokit.vip)
 
+### 消息实时通知
+
+基于Socket.io实现消息的实时通知，包括加入新项目、创建新任务、获得新评论、任务流转等等
+
+
 ### 登录／注册
 
 下载最新客户端或者网页版后，未登录的用户将引导到，手机号码登录页面。未注册的用户，在登录页面输入手机号和验证码后，将自动注册为新用户。
 
 ![登录／注册](https://ws1.sinaimg.cn/large/006tNc79gy1fjk8m2hhczj31kw124q69.jpg)
 
-### 消息实时通知
-基于Socket.io实现消息的实时通知，包括加入新项目、创建新任务、获得新评论、任务流转等等
 
 ### 我的产品
 
