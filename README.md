@@ -1,3 +1,8 @@
+# 已知问题
+
+* windows客户端会经常出现冻住的情况，Mac正常使用，正在解决，还没找出原因，希望知道的同学指教
+* 推荐使用Mac体验
+
 # Built With 
 [Electron](https://github.com/electron/electron)、
 [VueJS](https://github.com/vuejs/vue)、
@@ -8,11 +13,6 @@
 [七牛云](https://www.qiniu.com/)、
 #### 客户端源码[TodoKit](https://github.com/jeodiong/TodoKit)
 #### 服务端源码[TodoKit-api](https://github.com/jeodiong/TodoKit-api)
-
-# 已知问题
-
-* windows客户端会经常出现冻住的情况，Mac正常使用，正在解决，还没找出原因，希望知道的同学指教
-* 推荐使用Mac体验
 
 # Usage
  1. `git clone https://github.com/jeodiong/TodoKit.git`
