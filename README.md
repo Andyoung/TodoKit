@@ -1,16 +1,16 @@
-# TodoKit 2
+# How to use
  1. `git clone https://github.com/jeodiong/TodoKit.git`
  2. `npm install`
  3. `npm run dev`
 
 # Introduction 
 
-TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac客户端和网页版。
+TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac/windows客户端。
 官网：[https://www.todokit.vip](https://www.todokit.vip)
 
-#### Getting Start
+#### 客户端下载/安装
 
-使用TodoKit，需要你下载最新版的[客户端](https://github.com/jeodiong/TodoKit/releases) 或者使用[网页版](https://www.todokit.vip)
+使用TodoKit，需要你下载最新版的[客户端](https://github.com/jeodiong/TodoKit/releases)
 
 #### 消息实时通知
 
