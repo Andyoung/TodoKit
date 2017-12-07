@@ -1,12 +1,13 @@
-服务端源码稍后放出
+#### 客户端源码[TodoKit](https://github.com/jeodiong/TodoKit)
+#### 服务端源码[TodoKit-api](https://github.com/jeodiong/TodoKit-api)
 
-# 源码下载使用
+
+# Usage
  1. `git clone https://github.com/jeodiong/TodoKit.git`
  2. `npm install`
  3. `npm run dev`
 
-
-# 客户端下载/安装
+# Install
 
 * TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac/windows客户端。
 * 官网：[https://www.todokit.vip](https://www.todokit.vip)
@@ -84,6 +85,7 @@
 #### 最后
 
 希望大家多给给意见
+
 
 
 
