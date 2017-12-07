@@ -13,6 +13,8 @@ TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac客�
 
 ![登录／注册](https://ws1.sinaimg.cn/large/006tNc79gy1fjk8m2hhczj31kw124q69.jpg)
 
+### 消息实时通知
+基于Socket.io实现消息的实时通知，包括加入新项目、创建新任务、获得新评论、任务流转等等
 
 ### 我的产品
 
