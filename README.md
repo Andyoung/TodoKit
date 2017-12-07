@@ -15,7 +15,7 @@
 
 # Introduction 
 
-#### Electron、VueJS、NodeJS、ExpressJS、Socket.IO
+#### Using Electron、VueJS、NodeJS、ExpressJS、Socket.IO
 
 #### 消息实时通知
 
