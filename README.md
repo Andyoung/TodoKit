@@ -11,7 +11,7 @@
 
 # 已知问题
 
-* windows客户端会出现冻住的情况，Mac正常使用，正在解决，还没找出原因，希望知道的同学指教
+* windows客户端会经常出现冻住的情况，Mac正常使用，正在解决，还没找出原因，希望知道的同学指教
 
 # Usage
  1. `git clone https://github.com/jeodiong/TodoKit.git`
