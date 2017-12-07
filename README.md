@@ -1,7 +1,7 @@
 # TodoKit 2
-  `git clone https://github.com/jeodiong/TodoKit.git`
-  `npm install`
-  `npm run dev`
+ 1. `git clone https://github.com/jeodiong/TodoKit.git`
+ 2. `npm install`
+ 3. `npm run dev`
 
 # Introduction 
 
