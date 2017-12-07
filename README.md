@@ -9,6 +9,10 @@
 #### 客户端源码[TodoKit](https://github.com/jeodiong/TodoKit)
 #### 服务端源码[TodoKit-api](https://github.com/jeodiong/TodoKit-api)
 
+# 已知问题
+
+* windows客户端会出现冻住的情况，Mac正常使用，正在解决，还没找出原因，希望知道的同学指教
+
 # Usage
  1. `git clone https://github.com/jeodiong/TodoKit.git`
  2. `npm install`
