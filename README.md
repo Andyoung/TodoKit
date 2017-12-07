@@ -15,7 +15,7 @@
 
 # Introduction 
 
-#### Using Electron、VueJS、NodeJS、ExpressJS、Socket.IO
+#### Using [Electron](https://github.com/electron/electron)、[VueJS](https://github.com/vuejs/vue)、[NodeJS](https://github.com/nodejs/node)、[ExpressJS](https://github.com/expressjs/express)、[Socket.IO](https://github.com/socketio/socket.io)
 
 #### 消息实时通知
 
@@ -87,6 +87,7 @@
 #### 最后
 
 希望大家多给给意见
+
 
 
 
