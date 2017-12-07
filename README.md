@@ -1,4 +1,4 @@
-#### 服务端源码稍后放出
+服务端源码稍后放出
 
 # 源码下载使用
  1. `git clone https://github.com/jeodiong/TodoKit.git`
@@ -6,14 +6,13 @@
  3. `npm run dev`
 
 
-# Introduction 
-
-TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac/windows客户端。
-官网：[https://www.todokit.vip](https://www.todokit.vip)
-
 # 客户端下载/安装
 
-使用TodoKit，需要你下载最新版的[客户端](https://github.com/jeodiong/TodoKit/releases)
+* TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac/windows客户端。
+* 官网：[https://www.todokit.vip](https://www.todokit.vip)
+* 使用TodoKit，需要你下载最新版的[客户端](https://github.com/jeodiong/TodoKit/releases)
+
+# Introduction 
 
 #### 消息实时通知
 
@@ -85,5 +84,6 @@ TodoKit是一个免费的高颜值产品需求和Bug管理软件，包括Mac/win
 #### 最后
 
 希望大家多给给意见
+
 
 
