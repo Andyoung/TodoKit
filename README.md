@@ -15,6 +15,8 @@
 
 # Introduction 
 
+#### Electron、VueJS、NodeJS、ExpressJS、Socket.IO
+
 #### 消息实时通知
 
 基于Socket.io实现消息的实时通知，包括加入新项目、创建新任务、获得新评论、任务流转、事实聊天等等
